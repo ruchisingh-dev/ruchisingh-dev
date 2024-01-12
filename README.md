@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ruchi_singh3012" target="blank"><img src="https://img.shields.io/twitter/follow/ruchi_singh3012?logo=twitter&style=for-the-badge" alt="ruchi_singh3012" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C** and **Python**
 
 - 📫 How to reach me **ruchisingh.devops@gmail.com**
 
