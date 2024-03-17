@@ -1,33 +1,61 @@
-<h1 align="center">Hi 👋, I'm Ruchi Singh</h1>
-<h3 align="center">A passionate about full stack development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchisingh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ruchisingh-dev" /> </p>
+<h1 align="center">Ruchi Singh</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchisingh-dev" alt="ruchisingh-dev" /></a> </p>
+<h3 align="center">memonto mori</h3>
 
-<p align="left"> <a href="https://twitter.com/ruchi_singh3012" target="blank"><img src="https://img.shields.io/twitter/follow/ruchi_singh3012?logo=twitter&style=for-the-badge" alt="ruchi_singh3012" /></a> </p>
+<p align="center"> 
+<!--
+<img style="margin:auto;height:200px;" src="https://user-images.githubusercontent.com/83454075/180928900-62047562-846b-44eb-a954-2a5489425ded.gif"  />
+-->
 
-- 🌱 I’m currently working on **https://wifty-taylor-ruchi.vercel.app/**
+  
+  <p align="center">
+    <b>Fans<b/><br/>
+  <img src="https://profile-counter.glitch.me/aboutme/count.svg" />
+</p>
+  
 
-- 💬 Ask me about **C** and **Python**
+- 🌱 I’m currently working on **Android Devlopment**
 
-- 📫 How to reach me **ruchisingh.devops@gmail.com**
+- 👯 I’m looking to collaborate on **Full Stack Project**
 
-- ⚡ Fun fact **I think i'm funny**
+- 👨‍💻 All of my projects are available here !
+
+
+
+- 📫 How to reach me **ruchisingh-dev.dev@gmail.com**
+
+- ⚡ **Leader**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ruchi_singh3012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruchi_singh3012" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ruchi-singh-9b9537290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchi-singh-9b9537290" height="30" width="40" /></a>
-<a href="https://instagram.com/ruchisingh.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruchisingh.exe" height="30" width="40" /></a>
-<a href="https://discord.gg/RUCHISINGH#4838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RUCHISINGH#4838" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchisingh-dev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ruchisingh-dev)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchisingh-dev&show_icons=true&locale=en&layout=compact" alt="ruchisingh-dev" /></p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchisingh-dev&show_icons=true&locale=en" alt="ruchisingh-dev" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchisingh-dev&" alt="ruchisingh-dev" /></p>
+ ### 💻 My Contribution Graph:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruchisingh-dev&theme=vue)
+   <br/>
+   
+<p align="center" >
+<a href="https://github.com/ruchisingh-dev/convoychat">
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=ruchisingh-dev&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true)](https://github.com/ruchisingh-dev/github-readme-stats>
+</a>
+ </p>
+
+ 
+<br>
+<p align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchisingh-dev&count_private=true&theme=dark" alt="https://github.com/ruchisingh-dev" />
+</p>
+<br/>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchisingh-dev&show_icons=true&theme=dark&count_private=true&hide_border=true&locale=en&layout=compact" alt="ruchisingh-dev" />
+</p>
+
+
+<!--[![@divine01's Holopin board](https://holopin.me/divine01)](https://holopin.io/@divine01)-->
