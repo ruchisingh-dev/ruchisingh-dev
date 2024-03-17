@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ruchi_singh3012" target="blank"><img src="https://img.shields.io/twitter/follow/ruchi_singh3012?logo=twitter&style=for-the-badge" alt="ruchi_singh3012" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently working on **https://wifty-taylor-ruchi.vercel.app/**
 
 - 💬 Ask me about **C** and **Python**
 
