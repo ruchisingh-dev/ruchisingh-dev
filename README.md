@@ -1,12 +1,9 @@
 
 <h1 align="center">Ruchi Singh</h1>
-
-<h3 align="center">memonto mori</h3>
+<h3 align="center">Great Philotimo</h3>
 
 <p align="center"> 
-<!--
-<img style="margin:auto;height:200px;" src="https://user-images.githubusercontent.com/83454075/180928900-62047562-846b-44eb-a954-2a5489425ded.gif"  />
--->
+<img style="margin:auto;height:200px;" src="https://i.postimg.cc/5t8SjyfZ/aesthetic.gif" />
 
   
   <p align="center">
