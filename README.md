@@ -12,9 +12,9 @@
 </p>
   
 
-- 🌱 I’m currently working on **Android Devlopment**
+- 🌱 I’m currently working on **MERN Stack development**
 
-- 👯 I’m looking to collaborate on **Full Stack Project**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available here !
 
