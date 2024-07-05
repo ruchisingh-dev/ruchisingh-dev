@@ -12,9 +12,7 @@
 </p>
   
 
-- 🌱 I’m currently working on **MERN Stack development**
-
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 🌱 I’m currently working on **Data analytics**
 
 - 👨‍💻 All of my projects are available here !
 
